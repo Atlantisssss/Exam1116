@@ -1,0 +1,299 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.2.1] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\f8f579435a839c3f5a023c320019ccab\jetified-rxlifecycle-components-2.2.1\AndroidManifest.xml:13:1-19:12
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.1] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\5d8239a1066f838ed368c8a5a78a9a27\jetified-rxlifecycle-android-2.2.1\AndroidManifest.xml:13:1-19:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\aff4d59b4a4c7932fafe96ea4edc0a71\jetified-rxandroid-2.1.1\AndroidManifest.xml:15:1-20:12
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\b6170676657602435984d884b53e26d3\jetified-rxpermissions-0.9.5\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\822ec2f11f1df091d418fb80671a1ae1\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\bc732808fd1f3ba204f3b5dfb3482d67\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.XiaoMing55:Three:1.0.1] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\02f5b7115d65954a73e172a45bc87d76\jetified-Three-1.0.1\AndroidManifest.xml:2:1-12:12
+MERGED from [com.shuyu:GSYVideoPlayer:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\ff7173e9d304a2397a73e79508e0da18\jetified-GSYVideoPlayer-7.1.6\AndroidManifest.xml:2:1-17:12
+MERGED from [com.shuyu:gsyVideoPlayer-java:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\023674efed3c38fdfaaad1569cf265d6\jetified-gsyVideoPlayer-java-7.1.6\AndroidManifest.xml:2:1-19:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\0103faaa71aedf3aa91f369faf2d8a97\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\1a7fe88a0d78fd36aa2bcf3d85c03d2f\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\58887626bfdce0e441139b4ccdfb42c9\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\7dcf07d29bea9bd130301ce562f97061\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\2c51ed147191ed3784039dbe7f3b1723\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\82cdac3dbe66d7c4527f4421f22e0cc6\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\e0376e3716c5e0d4b193547cd1c348a8\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\57017c381e8166d9314865199778a4d6\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\930c37acfdf582590e18369dd1da0028\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\ace59ad1fe89a141368845eb32d9111a\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\f14fefa5aaf3a068eee1a3e67378cbec\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\5fe707c5d42311a8ed53d7b4be6ede6f\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\74b8af2520a5300c2bab8644b007c246\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\7949c638c9bb670fc47ea45db574c1cd\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\d14a1f90f642082d8556dbd54128841c\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\6df7101ba193f3fd9b12dc35821aa819\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\714f30169b70853507c116aeb517e5c2\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\d25ccf4d3ae3291d18cdd8ec5a711cbf\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\49869a5799a45df77534741fe75edaae\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.andkulikov:transitionseverywhere:2.0.0-beta01] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\aa730559a2afcc08312b3bdf5c89e13c\jetified-transitionseverywhere-2.0.0-beta01\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.1.0-beta01] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\0bd129d26e2154907c04565a52371046\transition-1.1.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.shuyu:GSYVideoPlayer-exo2:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\5edb2a200e6c87587cf9e21470e4b857\jetified-GSYVideoPlayer-exo2-7.1.6\AndroidManifest.xml:2:1-11:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-exo:0.8.8] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\a95a141d61925e625a57cc2e75f2fb37\jetified-ijkplayer-exo-0.8.8\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\f4a18fda5712c874161bb3906ef1c7c2\jetified-exoplayer-2.11.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\852df84ac991e572540e6ab1301aff8a\jetified-exoplayer-ui-2.11.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.1] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\5d0618883bee55055e7feb033b60e366\media-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\82d4fdd33ed58cf00b90cbd56eb7acf9\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\7c9152786bc0fab10452548e016af031\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\0a9d6391243ecdff8a0446514385faa5\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\95670bb32aa3201bac5c95cdf45815d7\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\83aa69cca83b1d6c189f2b19c648376c\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\ac5a09dbe5bf8dad076d6aec3e9405fd\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\a0d28a37f48b04974431a0de18d64fe7\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:extension-rtmp:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\8cef9a715fa8c3f34dc2c78b3907ec01\jetified-extension-rtmp-2.11.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\42327c7dc051b951317efa1f98ec82f7\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\0c34abfdfa4091a75e7e567098363c44\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\65c68503284c33f75b8e1fb24bfc8414\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\279f7fb3be11fbbd0a7373126923c1bf\jetified-exoplayer-dash-2.11.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\9148c639bd53a942f3cbf9c8ffb5c05c\jetified-exoplayer-hls-2.11.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\415bb2a575795bba68bb07490d0836f6\jetified-exoplayer-smoothstreaming-2.11.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\6a93d78d34bf098810df9e7bd6050269\jetified-exoplayer-core-2.11.3\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\3f296615f82750bdc8f9af4ed70fcd6a\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\19bf8b40651d96c08d43c60d6ec58c1d\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\076d3e7101b7612c31c44dd313b34894\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.shuyu:gsyVideoPlayer-armv5:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\582c0d1372c7ddc483a0f84bb349a6dc\jetified-gsyVideoPlayer-armv5-7.1.6\AndroidManifest.xml:2:1-17:12
+MERGED from [com.shuyu:gsyVideoPlayer-armv7a:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\72093a7dc7a4f5143a2f782fbc269814\jetified-gsyVideoPlayer-armv7a-7.1.6\AndroidManifest.xml:2:1-17:12
+MERGED from [com.shuyu:gsyVideoPlayer-arm64:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\d9dc0c1e33c5fbdb0f72e9fa799ec096\jetified-gsyVideoPlayer-arm64-7.1.6\AndroidManifest.xml:2:1-17:12
+MERGED from [com.shuyu:gsyVideoPlayer-x64:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\4f9a6248b70f3a3cc11ca20e9477891a\jetified-gsyVideoPlayer-x64-7.1.6\AndroidManifest.xml:2:1-17:12
+MERGED from [com.shuyu:gsyVideoPlayer-x86:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\b93a79507482cddc00a7c26119a384d9\jetified-gsyVideoPlayer-x86-7.1.6\AndroidManifest.xml:2:1-17:12
+MERGED from [com.shuyu:gsyVideoPlayer-base:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\3677a039753e6c3838943b6ccc5addc3\jetified-gsyVideoPlayer-base-7.1.6\AndroidManifest.xml:2:1-11:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.8] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\f8fee81e4d1d2a27d8ffce8e50fc4a56\jetified-ijkplayer-java-0.8.8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.shuyu:gsyvideoplayer-androidvideocache:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\6347998996809b7a60495152fad92dfe\jetified-gsyvideoplayer-androidvideocache-7.1.6\AndroidManifest.xml:2:1-17:12
+MERGED from [net.butterflytv.utils:rtmp-client:3.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\32b2956627bb70ca7aaa93712e2178bc\jetified-rtmp-client-3.1.0\AndroidManifest.xml:2:1-13:12
+INJECTED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml
+		ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml
+		ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:4:5-83
+MERGED from [net.butterflytv.utils:rtmp-client:3.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\32b2956627bb70ca7aaa93712e2178bc\jetified-rtmp-client-3.1.0\AndroidManifest.xml:11:5-67
+MERGED from [net.butterflytv.utils:rtmp-client:3.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\32b2956627bb70ca7aaa93712e2178bc\jetified-rtmp-client-3.1.0\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\b6170676657602435984d884b53e26d3\jetified-rxpermissions-0.9.5\AndroidManifest.xml:11:5-20
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\b6170676657602435984d884b53e26d3\jetified-rxpermissions-0.9.5\AndroidManifest.xml:11:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\822ec2f11f1df091d418fb80671a1ae1\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\822ec2f11f1df091d418fb80671a1ae1\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\bc732808fd1f3ba204f3b5dfb3482d67\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\bc732808fd1f3ba204f3b5dfb3482d67\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.shuyu:GSYVideoPlayer:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\ff7173e9d304a2397a73e79508e0da18\jetified-GSYVideoPlayer-7.1.6\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:GSYVideoPlayer:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\ff7173e9d304a2397a73e79508e0da18\jetified-GSYVideoPlayer-7.1.6\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyVideoPlayer-java:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\023674efed3c38fdfaaad1569cf265d6\jetified-gsyVideoPlayer-java-7.1.6\AndroidManifest.xml:13:5-17:19
+MERGED from [com.shuyu:gsyVideoPlayer-java:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\023674efed3c38fdfaaad1569cf265d6\jetified-gsyVideoPlayer-java-7.1.6\AndroidManifest.xml:13:5-17:19
+MERGED from [com.andkulikov:transitionseverywhere:2.0.0-beta01] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\aa730559a2afcc08312b3bdf5c89e13c\jetified-transitionseverywhere-2.0.0-beta01\AndroidManifest.xml:11:5-20
+MERGED from [com.andkulikov:transitionseverywhere:2.0.0-beta01] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\aa730559a2afcc08312b3bdf5c89e13c\jetified-transitionseverywhere-2.0.0-beta01\AndroidManifest.xml:11:5-20
+MERGED from [tv.danmaku.ijk.media:ijkplayer-exo:0.8.8] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\a95a141d61925e625a57cc2e75f2fb37\jetified-ijkplayer-exo-0.8.8\AndroidManifest.xml:9:5-13:19
+MERGED from [tv.danmaku.ijk.media:ijkplayer-exo:0.8.8] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\a95a141d61925e625a57cc2e75f2fb37\jetified-ijkplayer-exo-0.8.8\AndroidManifest.xml:9:5-13:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\82d4fdd33ed58cf00b90cbd56eb7acf9\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\82d4fdd33ed58cf00b90cbd56eb7acf9\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\0a9d6391243ecdff8a0446514385faa5\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\0a9d6391243ecdff8a0446514385faa5\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.shuyu:gsyVideoPlayer-armv5:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\582c0d1372c7ddc483a0f84bb349a6dc\jetified-gsyVideoPlayer-armv5-7.1.6\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyVideoPlayer-armv5:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\582c0d1372c7ddc483a0f84bb349a6dc\jetified-gsyVideoPlayer-armv5-7.1.6\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyVideoPlayer-armv7a:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\72093a7dc7a4f5143a2f782fbc269814\jetified-gsyVideoPlayer-armv7a-7.1.6\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyVideoPlayer-armv7a:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\72093a7dc7a4f5143a2f782fbc269814\jetified-gsyVideoPlayer-armv7a-7.1.6\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyVideoPlayer-arm64:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\d9dc0c1e33c5fbdb0f72e9fa799ec096\jetified-gsyVideoPlayer-arm64-7.1.6\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyVideoPlayer-arm64:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\d9dc0c1e33c5fbdb0f72e9fa799ec096\jetified-gsyVideoPlayer-arm64-7.1.6\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyVideoPlayer-x64:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\4f9a6248b70f3a3cc11ca20e9477891a\jetified-gsyVideoPlayer-x64-7.1.6\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyVideoPlayer-x64:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\4f9a6248b70f3a3cc11ca20e9477891a\jetified-gsyVideoPlayer-x64-7.1.6\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyVideoPlayer-x86:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\b93a79507482cddc00a7c26119a384d9\jetified-gsyVideoPlayer-x86-7.1.6\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyVideoPlayer-x86:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\b93a79507482cddc00a7c26119a384d9\jetified-gsyVideoPlayer-x86-7.1.6\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyvideoplayer-androidvideocache:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\6347998996809b7a60495152fad92dfe\jetified-gsyvideoplayer-androidvideocache-7.1.6\AndroidManifest.xml:11:5-15:19
+MERGED from [com.shuyu:gsyvideoplayer-androidvideocache:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\6347998996809b7a60495152fad92dfe\jetified-gsyvideoplayer-androidvideocache-7.1.6\AndroidManifest.xml:11:5-15:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\82d4fdd33ed58cf00b90cbd56eb7acf9\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.hudada.exam1116.mvp.view.activity.WelcomeActivity
+ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:12:19-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.hudada.exam1116.mvp.view.activity.MainActivity
+ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:19:9-21:20
+	android:name
+		ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml:19:19-65
+uses-sdk
+INJECTED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml
+INJECTED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.2.1] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\f8f579435a839c3f5a023c320019ccab\jetified-rxlifecycle-components-2.2.1\AndroidManifest.xml:17:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.2.1] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\f8f579435a839c3f5a023c320019ccab\jetified-rxlifecycle-components-2.2.1\AndroidManifest.xml:17:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.1] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\5d8239a1066f838ed368c8a5a78a9a27\jetified-rxlifecycle-android-2.2.1\AndroidManifest.xml:17:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.1] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\5d8239a1066f838ed368c8a5a78a9a27\jetified-rxlifecycle-android-2.2.1\AndroidManifest.xml:17:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\aff4d59b4a4c7932fafe96ea4edc0a71\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\aff4d59b4a4c7932fafe96ea4edc0a71\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\b6170676657602435984d884b53e26d3\jetified-rxpermissions-0.9.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\b6170676657602435984d884b53e26d3\jetified-rxpermissions-0.9.5\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\822ec2f11f1df091d418fb80671a1ae1\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\822ec2f11f1df091d418fb80671a1ae1\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\bc732808fd1f3ba204f3b5dfb3482d67\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\bc732808fd1f3ba204f3b5dfb3482d67\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.XiaoMing55:Three:1.0.1] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\02f5b7115d65954a73e172a45bc87d76\jetified-Three-1.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.XiaoMing55:Three:1.0.1] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\02f5b7115d65954a73e172a45bc87d76\jetified-Three-1.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:GSYVideoPlayer:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\ff7173e9d304a2397a73e79508e0da18\jetified-GSYVideoPlayer-7.1.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:GSYVideoPlayer:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\ff7173e9d304a2397a73e79508e0da18\jetified-GSYVideoPlayer-7.1.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-java:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\023674efed3c38fdfaaad1569cf265d6\jetified-gsyVideoPlayer-java-7.1.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-java:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\023674efed3c38fdfaaad1569cf265d6\jetified-gsyVideoPlayer-java-7.1.6\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\0103faaa71aedf3aa91f369faf2d8a97\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\0103faaa71aedf3aa91f369faf2d8a97\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\1a7fe88a0d78fd36aa2bcf3d85c03d2f\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\1a7fe88a0d78fd36aa2bcf3d85c03d2f\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\58887626bfdce0e441139b4ccdfb42c9\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\58887626bfdce0e441139b4ccdfb42c9\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\7dcf07d29bea9bd130301ce562f97061\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\7dcf07d29bea9bd130301ce562f97061\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\2c51ed147191ed3784039dbe7f3b1723\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\2c51ed147191ed3784039dbe7f3b1723\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\82cdac3dbe66d7c4527f4421f22e0cc6\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\82cdac3dbe66d7c4527f4421f22e0cc6\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\e0376e3716c5e0d4b193547cd1c348a8\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\e0376e3716c5e0d4b193547cd1c348a8\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\57017c381e8166d9314865199778a4d6\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\57017c381e8166d9314865199778a4d6\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\930c37acfdf582590e18369dd1da0028\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\930c37acfdf582590e18369dd1da0028\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\ace59ad1fe89a141368845eb32d9111a\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\ace59ad1fe89a141368845eb32d9111a\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\f14fefa5aaf3a068eee1a3e67378cbec\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\f14fefa5aaf3a068eee1a3e67378cbec\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\5fe707c5d42311a8ed53d7b4be6ede6f\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\5fe707c5d42311a8ed53d7b4be6ede6f\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\74b8af2520a5300c2bab8644b007c246\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\74b8af2520a5300c2bab8644b007c246\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\7949c638c9bb670fc47ea45db574c1cd\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\7949c638c9bb670fc47ea45db574c1cd\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\d14a1f90f642082d8556dbd54128841c\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\d14a1f90f642082d8556dbd54128841c\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\6df7101ba193f3fd9b12dc35821aa819\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\6df7101ba193f3fd9b12dc35821aa819\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\714f30169b70853507c116aeb517e5c2\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\714f30169b70853507c116aeb517e5c2\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\d25ccf4d3ae3291d18cdd8ec5a711cbf\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\d25ccf4d3ae3291d18cdd8ec5a711cbf\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\49869a5799a45df77534741fe75edaae\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\49869a5799a45df77534741fe75edaae\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.andkulikov:transitionseverywhere:2.0.0-beta01] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\aa730559a2afcc08312b3bdf5c89e13c\jetified-transitionseverywhere-2.0.0-beta01\AndroidManifest.xml:7:5-9:41
+MERGED from [com.andkulikov:transitionseverywhere:2.0.0-beta01] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\aa730559a2afcc08312b3bdf5c89e13c\jetified-transitionseverywhere-2.0.0-beta01\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0-beta01] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\0bd129d26e2154907c04565a52371046\transition-1.1.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0-beta01] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\0bd129d26e2154907c04565a52371046\transition-1.1.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [com.shuyu:GSYVideoPlayer-exo2:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\5edb2a200e6c87587cf9e21470e4b857\jetified-GSYVideoPlayer-exo2-7.1.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:GSYVideoPlayer-exo2:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\5edb2a200e6c87587cf9e21470e4b857\jetified-GSYVideoPlayer-exo2-7.1.6\AndroidManifest.xml:7:5-9:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-exo:0.8.8] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\a95a141d61925e625a57cc2e75f2fb37\jetified-ijkplayer-exo-0.8.8\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-exo:0.8.8] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\a95a141d61925e625a57cc2e75f2fb37\jetified-ijkplayer-exo-0.8.8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\f4a18fda5712c874161bb3906ef1c7c2\jetified-exoplayer-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\f4a18fda5712c874161bb3906ef1c7c2\jetified-exoplayer-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\852df84ac991e572540e6ab1301aff8a\jetified-exoplayer-ui-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\852df84ac991e572540e6ab1301aff8a\jetified-exoplayer-ui-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.1] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\5d0618883bee55055e7feb033b60e366\media-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.1] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\5d0618883bee55055e7feb033b60e366\media-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\82d4fdd33ed58cf00b90cbd56eb7acf9\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\82d4fdd33ed58cf00b90cbd56eb7acf9\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\7c9152786bc0fab10452548e016af031\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\7c9152786bc0fab10452548e016af031\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\0a9d6391243ecdff8a0446514385faa5\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\0a9d6391243ecdff8a0446514385faa5\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\95670bb32aa3201bac5c95cdf45815d7\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\95670bb32aa3201bac5c95cdf45815d7\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\83aa69cca83b1d6c189f2b19c648376c\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\83aa69cca83b1d6c189f2b19c648376c\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\ac5a09dbe5bf8dad076d6aec3e9405fd\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\ac5a09dbe5bf8dad076d6aec3e9405fd\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\a0d28a37f48b04974431a0de18d64fe7\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\a0d28a37f48b04974431a0de18d64fe7\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:extension-rtmp:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\8cef9a715fa8c3f34dc2c78b3907ec01\jetified-extension-rtmp-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-rtmp:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\8cef9a715fa8c3f34dc2c78b3907ec01\jetified-extension-rtmp-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\42327c7dc051b951317efa1f98ec82f7\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\42327c7dc051b951317efa1f98ec82f7\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\0c34abfdfa4091a75e7e567098363c44\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\0c34abfdfa4091a75e7e567098363c44\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\65c68503284c33f75b8e1fb24bfc8414\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\65c68503284c33f75b8e1fb24bfc8414\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\279f7fb3be11fbbd0a7373126923c1bf\jetified-exoplayer-dash-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\279f7fb3be11fbbd0a7373126923c1bf\jetified-exoplayer-dash-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\9148c639bd53a942f3cbf9c8ffb5c05c\jetified-exoplayer-hls-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\9148c639bd53a942f3cbf9c8ffb5c05c\jetified-exoplayer-hls-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\415bb2a575795bba68bb07490d0836f6\jetified-exoplayer-smoothstreaming-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\415bb2a575795bba68bb07490d0836f6\jetified-exoplayer-smoothstreaming-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\6a93d78d34bf098810df9e7bd6050269\jetified-exoplayer-core-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\6a93d78d34bf098810df9e7bd6050269\jetified-exoplayer-core-2.11.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\3f296615f82750bdc8f9af4ed70fcd6a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\3f296615f82750bdc8f9af4ed70fcd6a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\19bf8b40651d96c08d43c60d6ec58c1d\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\19bf8b40651d96c08d43c60d6ec58c1d\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\076d3e7101b7612c31c44dd313b34894\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\076d3e7101b7612c31c44dd313b34894\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.shuyu:gsyVideoPlayer-armv5:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\582c0d1372c7ddc483a0f84bb349a6dc\jetified-gsyVideoPlayer-armv5-7.1.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-armv5:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\582c0d1372c7ddc483a0f84bb349a6dc\jetified-gsyVideoPlayer-armv5-7.1.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-armv7a:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\72093a7dc7a4f5143a2f782fbc269814\jetified-gsyVideoPlayer-armv7a-7.1.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-armv7a:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\72093a7dc7a4f5143a2f782fbc269814\jetified-gsyVideoPlayer-armv7a-7.1.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-arm64:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\d9dc0c1e33c5fbdb0f72e9fa799ec096\jetified-gsyVideoPlayer-arm64-7.1.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-arm64:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\d9dc0c1e33c5fbdb0f72e9fa799ec096\jetified-gsyVideoPlayer-arm64-7.1.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-x64:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\4f9a6248b70f3a3cc11ca20e9477891a\jetified-gsyVideoPlayer-x64-7.1.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-x64:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\4f9a6248b70f3a3cc11ca20e9477891a\jetified-gsyVideoPlayer-x64-7.1.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-x86:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\b93a79507482cddc00a7c26119a384d9\jetified-gsyVideoPlayer-x86-7.1.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-x86:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\b93a79507482cddc00a7c26119a384d9\jetified-gsyVideoPlayer-x86-7.1.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-base:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\3677a039753e6c3838943b6ccc5addc3\jetified-gsyVideoPlayer-base-7.1.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyVideoPlayer-base:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\3677a039753e6c3838943b6ccc5addc3\jetified-gsyVideoPlayer-base-7.1.6\AndroidManifest.xml:7:5-9:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.8] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\f8fee81e4d1d2a27d8ffce8e50fc4a56\jetified-ijkplayer-java-0.8.8\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.8] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\f8fee81e4d1d2a27d8ffce8e50fc4a56\jetified-ijkplayer-java-0.8.8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.shuyu:gsyvideoplayer-androidvideocache:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\6347998996809b7a60495152fad92dfe\jetified-gsyvideoplayer-androidvideocache-7.1.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shuyu:gsyvideoplayer-androidvideocache:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\6347998996809b7a60495152fad92dfe\jetified-gsyvideoplayer-androidvideocache-7.1.6\AndroidManifest.xml:7:5-9:41
+MERGED from [net.butterflytv.utils:rtmp-client:3.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\32b2956627bb70ca7aaa93712e2178bc\jetified-rtmp-client-3.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [net.butterflytv.utils:rtmp-client:3.1.0] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\32b2956627bb70ca7aaa93712e2178bc\jetified-rtmp-client-3.1.0\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml
+INJECTED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml
+		ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml
+		ADDED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidSpace\Exam1116\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.shuyu:gsyVideoPlayer-java:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\023674efed3c38fdfaaad1569cf265d6\jetified-gsyVideoPlayer-java-7.1.6\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\6a93d78d34bf098810df9e7bd6050269\jetified-exoplayer-core-2.11.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.11.3] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\6a93d78d34bf098810df9e7bd6050269\jetified-exoplayer-core-2.11.3\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.shuyu:gsyVideoPlayer-java:7.1.6] C:\Users\Atlantis\.gradle\caches\transforms-2\files-2.1\023674efed3c38fdfaaad1569cf265d6\jetified-gsyVideoPlayer-java-7.1.6\AndroidManifest.xml:11:22-76

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".mvp.view.fragment.LoginFragment">
+
+  <EditText
+      android:id="@+id/login_username"
+      android:layout_width="200dp"
+      android:layout_height="wrap_content">
+
+  </EditText>
+    <EditText
+        android:id="@+id/login_userpwd"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content">
+
+    </EditText>
+    <Button
+        android:id="@+id/login_butt"
+        android:text="登录"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </Button>
+</LinearLayout>
